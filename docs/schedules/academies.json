@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "academies": [
+    {
+      "id": "sjja-dulwich-hill",
+      "name": "SJJA Dulwich Hill",
+      "schedulePath": "sjja-dulwich-hill.json"
+    }
+  ]
+}

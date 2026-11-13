@@ -1,6 +1,14 @@
 # Academy timetable feeds
 
-The public [SJJA Dulwich Hill feed](https://kemalenver.github.io/bjj-tracker-website/schedules/sjja-dulwich-hill.json) is served from `docs/schedules/sjja-dulwich-hill.json` on the `main` branch of the [Mat Time website repository](https://github.com/kemalenver/bjj-tracker-website). Update that file to publish changes. The app repository carries the initial feed as a test fixture.
+Publish the [academy directory](https://kemalenver.github.io/bjj-tracker-website/schedules/academies.json) and timetable feeds under `docs/schedules/` on the `main` branch of the [Mat Time website repository](https://github.com/kemalenver/bjj-tracker-website). The app repository carries the initial files as test fixtures.
+
+## Add an academy
+
+1. Add a timetable JSON file in the same directory. Use the [SJJA Dulwich Hill feed](https://kemalenver.github.io/bjj-tracker-website/schedules/sjja-dulwich-hill.json) as an example.
+2. Add an entry to `academies.json` with a unique, stable `id`, its display `name`, and the feed filename as `schedulePath`. Use lowercase letters, digits and hyphens for the ID and filename stem. The timetable’s `academyID` must match the directory entry.
+3. Commit both files together. After Pages publishes the change, open Mat Time or pull down in Academies or Schedule. The directory controls discovery. Existing followers can still manage a delisted academy, so keep its feed available if it should continue receiving updates.
+
+## Update a timetable
 
 - Keep `schemaVersion` at 1 and keep the academy’s `academyID` fixed.
 - Increase `revision` for every change, including rollbacks.
