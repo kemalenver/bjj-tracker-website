@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "academyID": "sjja-dulwich-hill",
+  "revision": 1,
+  "timeZoneIdentifier": "Australia/Sydney",
+  "classes": [
+    {
+      "id": "534A4A41-2026-4000-8000-000000000001",
+      "name": "Adults all levels",
+      "weekday": 0,
+      "startMinute": 360,
+      "endMinute": 420,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000003",
+      "name": "Kids 5–7 years",
+      "weekday": 0,
+      "startMinute": 1000,
+      "endMinute": 1045,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000004",
+      "name": "Kids 8–12 years",
+      "weekday": 0,
+      "startMinute": 1055,
+      "endMinute": 1100,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000005",
+      "name": "Adults advanced",
+      "weekday": 0,
+      "startMinute": 1100,
+      "endMinute": 1160,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000006",
+      "name": "Adults beginners",
+      "weekday": 0,
+      "startMinute": 1160,
+      "endMinute": 1220,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000007",
+      "name": "Adults all levels",
+      "weekday": 1,
+      "startMinute": 720,
+      "endMinute": 780,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000008",
+      "name": "Kids 3–4 years",
+      "weekday": 1,
+      "startMinute": 960,
+      "endMinute": 990,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000009",
+      "name": "Kids 5–7 years",
+      "weekday": 1,
+      "startMinute": 1000,
+      "endMinute": 1045,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000010",
+      "name": "Kids 8–12 years",
+      "weekday": 1,
+      "startMinute": 1055,
+      "endMinute": 1100,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000011",
+      "name": "Adults No-Gi",
+      "weekday": 1,
+      "startMinute": 1100,
+      "endMinute": 1160,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000012",
+      "name": "Adults all levels",
+      "weekday": 1,
+      "startMinute": 1160,
+      "endMinute": 1220,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000013",
+      "name": "Adults all levels",
+      "weekday": 2,
+      "startMinute": 360,
+      "endMinute": 420,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000014",
+      "name": "Kids 5–7 years",
+      "weekday": 2,
+      "startMinute": 960,
+      "endMinute": 1005,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000015",
+      "name": "Kids 8–12 years",
+      "weekday": 2,
+      "startMinute": 1005,
+      "endMinute": 1050,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000016",
+      "name": "Teens 13+",
+      "weekday": 2,
+      "startMinute": 1055,
+      "endMinute": 1100,
+      "audience": "teens"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000017",
+      "name": "Adults advanced",
+      "weekday": 2,
+      "startMinute": 1100,
+      "endMinute": 1160,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000018",
+      "name": "Adults beginners",
+      "weekday": 2,
+      "startMinute": 1160,
+      "endMinute": 1220,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000019",
+      "name": "Adults all levels",
+      "weekday": 3,
+      "startMinute": 720,
+      "endMinute": 780,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000020",
+      "name": "Kids 3–4 years",
+      "weekday": 3,
+      "startMinute": 960,
+      "endMinute": 990,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000021",
+      "name": "Kids 5–7 years",
+      "weekday": 3,
+      "startMinute": 1000,
+      "endMinute": 1045,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000022",
+      "name": "Kids 8–12 years",
+      "weekday": 3,
+      "startMinute": 1055,
+      "endMinute": 1100,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000025",
+      "name": "Adults No-Gi",
+      "weekday": 4,
+      "startMinute": 360,
+      "endMinute": 420,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000026",
+      "name": "Adults all levels",
+      "weekday": 4,
+      "startMinute": 720,
+      "endMinute": 780,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000027",
+      "name": "Kids 5–7 years",
+      "weekday": 4,
+      "startMinute": 1000,
+      "endMinute": 1045,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000028",
+      "name": "Kids 8–12 years",
+      "weekday": 4,
+      "startMinute": 1055,
+      "endMinute": 1100,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000029",
+      "name": "Open mat",
+      "weekday": 4,
+      "startMinute": 1100,
+      "endMinute": 1160,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000030",
+      "name": "Kids 5–7 years",
+      "weekday": 5,
+      "startMinute": 540,
+      "endMinute": 585,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000031",
+      "name": "Kids 8–12 years",
+      "weekday": 5,
+      "startMinute": 595,
+      "endMinute": 640,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000032",
+      "name": "Open mat",
+      "weekday": 5,
+      "startMinute": 640,
+      "endMinute": 730,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000038",
+      "name": "Competition team training",
+      "weekday": 5,
+      "startMinute": 810,
+      "endMinute": 870,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000033",
+      "name": "Women only",
+      "weekday": 6,
+      "startMinute": 480,
+      "endMinute": 570,
+      "audience": "adults"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000034",
+      "name": "Kids 3–4 years",
+      "weekday": 6,
+      "startMinute": 585,
+      "endMinute": 615,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000035",
+      "name": "Kids 5–7 years",
+      "weekday": 6,
+      "startMinute": 615,
+      "endMinute": 660,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000036",
+      "name": "Kids 8–12 years · competition training",
+      "weekday": 6,
+      "startMinute": 660,
+      "endMinute": 705,
+      "audience": "children"
+    },
+    {
+      "id": "534A4A41-2026-4000-8000-000000000037",
+      "name": "Teens 13+ · competition training",
+      "weekday": 6,
+      "startMinute": 705,
+      "endMinute": 750,
+      "audience": "teens"
+    }
+  ]
+}
